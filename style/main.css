@@ -61,3 +61,6 @@ p {
   border-image: linear-gradient(orange, cyan);
   border-image-slice: 1;
 }
+footer {
+  text-align: center;
+}
