@@ -11,7 +11,7 @@ h1 {
 .first-section {
   display: flex;
   padding-left: 10%;
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
 .half-width {
@@ -34,14 +34,14 @@ p {
   margin-top: 20px;
   display: flex;
   padding-left: 10%;
-  background-image: url(/images/dream-bg.png);
+  background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
 .experience-area {
   display: flex;
   padding-left: 10%;
-  background-image: url(/images/exp-bg.png);
+  background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
 }
 .experience-item {
